@@ -55,7 +55,9 @@ footer {margin-block: .5rem;}
 #card {background-color: var(--clr-white);
        border-radius: 1rem;
        font-family: var(--font-sans-serif);
-       color: var(--clr-dark-grayish-blue);}
+       color: var(--clr-dark-grayish-blue);
+       width: 343px;
+       margin-inline: auto;}
 
 #card-text {padding: 1rem 1.5rem;}
 
